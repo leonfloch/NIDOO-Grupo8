@@ -36,6 +36,6 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 [Diseño Arquitectura](arquitectura.md)
 
 
-[![](http://img.youtube.com/vi/BA_c3bGQXlQ/0.jpg)](http://www.youtube.com/watch?v=BA_c3bGQXlQ "")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PliHAP5m0BE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 

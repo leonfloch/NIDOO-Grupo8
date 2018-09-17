@@ -1,10 +1,10 @@
 # Arquitectura
 
-### Modelo de contexto
+## Modelo de contexto
 
-### Modelo elementos del dominio 
+## Modelo de dominio del problema  
 
-### Modelo de Componentes
+## Modelo de Componentes
 
 ![Image](views/NIDOO_Components.png)
 
@@ -12,7 +12,7 @@
 ![Image](views/NIDOO_Parking_component_layers.png)
 
 
-### Modelo de Despliegue
+## Modelo de Despliegue
 
 ![Image](views/vista_despliegue_2.png)
 

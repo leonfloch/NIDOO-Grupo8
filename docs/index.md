@@ -43,5 +43,5 @@ First Header | Second Header
 Leonardo Valbuena | que dj
 Sebastian | Content in the second column
 
-![Image of Yaktocat]
+
 (https://github.com/leonfloch/NIDOO-Grupo8/blob/master/docs/views/NIDOO_Components.png)

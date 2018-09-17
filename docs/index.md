@@ -10,9 +10,26 @@ Camilo Andres Mendoza Arrieta | ca.mendoza968@uniandes.edu.co
 Cristian Faryd Sepulveda Melo | cf.sepulveda@uniandes.edu.co
 Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 
+### Listado de las historias de arquitectura
+
+[Backlog](backlog.md)
 
 
-[a relative link](arquitectura.md)
+### Priorización de los atributos de calidad y de los ASR's
+
+[Backlog](atributos-calidad.md)
+
+### Restricciones de negocio
+
+[Backlog](restricciones-negocio.md)
+
+### Restricciones de tecnología
+
+[Backlog](restricciones-tecnologia.md)
 
 
-![Image](views/NIDOO_Components.png)
+### Arquitectura
+
+[Diseño Arquitectura](arquitectura.md)
+
+

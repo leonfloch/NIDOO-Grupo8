@@ -10,18 +10,21 @@ Camilo Andres Mendoza Arrieta | ca.mendoza968@uniandes.edu.co
 Cristian Faryd Sepulveda Melo | cf.sepulveda@uniandes.edu.co
 Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 
+
 ### Listado de las historias de arquitectura
 
-    * [Backlog](backlog.md)
+* [Backlog](backlog.md)
 
 
 ### Priorización de los atributos de calidad y de los ASR's
 
 * [Atributos de Calidad](atributos-calidad.md)
 
+
 ### Restricciones de negocio
 
 [Backlog](restricciones-negocio.md)
+
 
 ### Restricciones de tecnología
 
@@ -31,5 +34,8 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 ### Arquitectura
 
 [Diseño Arquitectura](arquitectura.md)
+
+
+![Explicacion Arquitectura](https://www.youtube.com/watch?v=BA_c3bGQXlQ "Audi R8")
 
 

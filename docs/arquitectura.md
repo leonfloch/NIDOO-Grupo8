@@ -1,4 +1,4 @@
-## Arquitectura
+# Arquitectura
 
 ### Modelo de contexto
 

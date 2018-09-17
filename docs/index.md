@@ -36,6 +36,6 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 [Diseño Arquitectura](arquitectura.md)
 
 
-![Explicacion Arquitectura](https://www.youtube.com/watch?v=BA_c3bGQXlQ "Audi R8")
+[![](http://img.youtube.com/vi/BA_c3bGQXlQ/0.jpg)](http://www.youtube.com/watch?v=BA_c3bGQXlQ "")
 
 

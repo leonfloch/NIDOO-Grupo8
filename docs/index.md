@@ -11,4 +11,8 @@ Cristian Faryd Sepulveda Melo | cf.sepulveda@uniandes.edu.co
 Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 
 
+
+[a relative link](arquitectura.md)
+
+
 ![Image](views/NIDOO_Components.png)

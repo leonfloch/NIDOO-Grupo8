@@ -23,19 +23,22 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 
 ### Restricciones de negocio
 
-[Backlog](restricciones-negocio.md)
+* [Restricciones de negocio](restricciones-negocio.md)
 
 
 ### Restricciones de tecnología
 
-[Backlog](restricciones-tecnologia.md)
+* [Restricciones de tecnología](restricciones-tecnologia.md)
 
 
 ### Arquitectura
 
-[Diseño Arquitectura](arquitectura.md)
+* [Diseño Arquitectura](arquitectura.md)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PliHAP5m0BE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Analisis Equipo
+
+* [Aspectos que han funcionado](equipo-funciona.md)
+* [Aspectos que no han funcionado](equipo-no-finciona.md)
 
 

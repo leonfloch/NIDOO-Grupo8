@@ -44,4 +44,4 @@ Leonardo Valbuena | que dj
 Sebastian | Content in the second column
 
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](views/NIDOO_Components.png)

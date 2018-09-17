@@ -1,4 +1,4 @@
-## Arquitecturas Ágiles de Software
+# Arquitecturas Ágiles de Software
 ## NIDOO -  GRUPO 8
 
 ### Participantes
@@ -12,12 +12,12 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 
 ### Listado de las historias de arquitectura
 
-[Backlog](backlog.md)
+    * [Backlog](backlog.md)
 
 
 ### Priorización de los atributos de calidad y de los ASR's
 
-[Backlog](atributos-calidad.md)
+* [Atributos de Calidad](atributos-calidad.md)
 
 ### Restricciones de negocio
 

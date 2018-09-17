@@ -39,6 +39,6 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 ### Analisis Equipo
 
 * [Aspectos que han funcionado](equipo-funciona.md)
-* [Aspectos que no han funcionado](equipo-no-finciona.md)
+* [Aspectos que no han funcionado](equipo-no-funciona.md)
 
 

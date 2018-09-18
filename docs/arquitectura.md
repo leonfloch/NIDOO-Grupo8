@@ -1,6 +1,5 @@
 # Arquitectura
-
-El desarrollo de este proyecto se basa en arquitectura orientada a servicios, asu ves aplicando un estilo arquitectonico REST.
+El desarrollo de este proyecto se basa en una arquitectura de microservicios, la cual permite tener componentes pequeños, simples y desacoplados, lo que a su ves permite tener aplicaciones escalables, flexibles y reutilizables.
 
 * Permitiendo la implementación de transacciones ligeras 
 * interoperables y con todas las capacidades de HTTP brindando múltiples formatos a la zona de canales y de Micro-servicios.
@@ -66,7 +65,6 @@ Esta vista representa el componente **Parking bookin**
 ## Modelo de Despliegue
 La vista a continuacion muestra el despliegue de los microservicios dentro de contenedores Docker los cuales a su ves se encuentran dentro de instancias EC2 en AWS. 
 Las aplicaciones front se comunican a traves de un API Gateway el cual usando un balanceador de carga distribuye las peticiones a cada una de las instancias EC2
-
 ![Image](views/vista_despliegue_2.png)
 
 

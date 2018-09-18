@@ -26,4 +26,50 @@
 
 
 
+
+## Stakeholders
+
+| Stakeholder                       | Descripción                                                                      |
+|-----------------------------------|----------------------------------------------------------------------------------|
+| Guardia de seguridad.             | Persona encargada del parqueadero                                                |
+|                                   |                                                                                  |
+| Desarrollador de software         | Empleado de NIDOO quien programa los requerimientos                              |
+|                                   |                                                                                  |
+| Cliente: propietario de vehículo  | Ocasional, necesita un parqueadero de vez en cuando                              |
+|                                   |                                                                                  |
+| Cliente: empresa                  | Necesita muchos parqueaderos                                                     |
+|                                   |                                                                                  |
+| Oferente: empresa                 | Empresas que tienen muchos parqueaderos disponibles                              |
+|                                   |                                                                                  |
+| Oferente: parqueadero público     | Empresas de servicio que usan la plataforma como canal para ofrecer su servicio  |
+|                                   |                                                                                  |
+| Oferente: persona natural         | Tiene un parqueadero disponible en su casa                                       |
+|                                   |                                                                                  |
+| CEO NIDOO                         | Gerente general de NIDOO                                                         |
+| CTO NIDOO                         | Director de tecnología de NIDOO                                                  |
+|                                   |                                                                                  |
+| Financiero NIDOO                  | Valida regulación de cobros, contaduría                                          |
+|                                   |                                                                                  |
+| Comercial NIDOO                   | Realiza convenios con parqueaderos y empresas para NIDOO                         |
+
+
+
+## Relación de historias de usuario 
+
+| Stakeholder                       | Historias de usuario representativas                                                                                              |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Guardia de seguridad              | HU-DIS-4, HU-DIS-5, HU-SEG-3                                                                                                      |
+| Desarrollador de software         | HU-ESC-5, HU-SEG-1                                                                                                                |
+| Cliente: propietario de vehículo  | HU-ESC-4, HU-ESC-2, HU-DIS-1, HU-DIS-2, HU-DIS-3, HU-SEG-2, HU-SEG-3, HU-SEG-4, HE-SEG-5, HU-LAT-1, HU-LAT-2, HU-LAT-5, HU-LAT-4  |
+| Cliente: empresa                  | HU-DIS-1, HU-DIS-2, HU-DIS-3, HU-SEG-4, HU-LAT-1, HU-LAT-2, HU-LAT-5, HU-LAT-4                                                    |
+| Oferente: empresa                 | HU-ESC-1, HU-DIS-4, HU-DIS-5, HU-ESC-3, HU-SEG-3, HU-LAT-3                                                                        |
+| Oferente: parqueadero público     | HU-DIS-4, HU-DIS-5, HU-SEG-3, HU-LAT-3                                                                                            |
+| Oferente: persona natural         | HU-DIS-4, HU-DIS-5, HU-SEG-3, HU-LAT-3                                                                                            |
+| CEO NIDOO                         | HU-DIS-1                                                                                                                          |
+| CTO NIDOO                         | HU-DIS-1, HU-SEG-1, HU-LAT-1                                                                                                      |
+| Financiero NIDOO                  | HU-SEG-4, HU-SEG-5                                                                                                                |
+| Comercial NIDOO                   | HU-LAT-1, HU-LAT-3                                                                                                                |
+
+
+
 ## [Inicio](index.md)

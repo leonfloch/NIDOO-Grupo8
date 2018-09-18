@@ -1,8 +1,6 @@
 # Arquitectura
 El desarrollo de este proyecto se basa en una arquitectura de microservicios, la cual permite tener componentes pequeños, simples y desacoplados, lo que a su ves permite tener aplicaciones escalables, flexibles y reutilizables.
 
-* Permitiendo la implementación de transacciones ligeras 
-* interoperables y con todas las capacidades de HTTP brindando múltiples formatos a la zona de canales y de Micro-servicios.
 
 ### Microservicios con contenedores
 

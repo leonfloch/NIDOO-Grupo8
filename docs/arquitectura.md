@@ -15,9 +15,18 @@ El desarrollo de este proyecto se basa en una arquitectura de microservicios, la
 
 ## Modelo de contexto
 
+La siguiente vista muestra los sistemas de los cuales está compuesto NIDOO, los sistemas externos y usuarios que interactuan con esos sistemas.
+
+NIDOO como sistema cumplirá con funcionalidades como registro de usuarios, registro y solicitus de parqueaderos, servicio de pagos, entre otros. Los sistemas externos cumplen la funcionalidad de potenciar funcionalidades de NIDOO; son sistemas que ya han sido implementados, probados y con tiempo de vida en el mercado, ejemplos son los sistemas de pagos, centrales de riesgo, sistemas de seguridad, entre otros.
+
+**Pendiente subir la imagen con las convenciones Camilo**
 ![Image](views/vista_contexto.png)
 
-## Modelo de dominio del problema  
+## Modelo de dominio del problema
+
+La siguiente vista nos muestra las entidades más importantes del sistema y las relaciones que existen entre estas.
+
+**TODO Pendiente subir la imagen Cristian**
 
 ## Modelo de Componentes
 

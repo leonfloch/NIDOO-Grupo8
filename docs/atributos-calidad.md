@@ -1,6 +1,6 @@
 # Atributos de Calidad
-Priorización de los atributos de calidad y de los ASR's
 
+Priorización de los atributos de calidad y de los ASR's
 
 ## Priorización de ASRs​
 
@@ -20,11 +20,9 @@ Priorización de los atributos de calidad y de los ASR's
 | TOTAL​                                  | 31​              | 15​             | 36​        | 28​         |
 | Peso (Riesgo)​                          | 3​               | 1​              | 4​         | 2​          |
 
-
-
 ## Relación de HU con stakeholders​
 
-| stakeholders​                          | Latencia​  4                            | Disponibilidad​ 3             | Seguridad​ 2                            | Escalabilidad​ 1    |
+| Stakeholders​                          | Latencia​  4                            | Disponibilidad​ 3             | Seguridad​ 2                            | Escalabilidad​ 1    |
 |----------------------------------------|-----------------------------------------|-------------------------------|-----------------------------------------|---------------------|
 | P1 (Guardia de seguridad)​             | ​                                       | HU-DIS-4, HU-DIS-5​           | HU-SEG-3​                               | ​                   |
 | P2 (Desarrollador de software)​        | ​                                       | ​                             | HU-SEG-1​                               | HU-ESC-5​           |
@@ -39,18 +37,14 @@ Priorización de los atributos de calidad y de los ASR's
 | P11 (Comercial NIDOO)​                 | HU-LAT-1, HU-LAT-3​                     | ​                             | ​                                       | ​                   |
 | TOTAL​                                 | 56​                                     | 48​                           | 22​                                     | 7​                  |
 
-
-
-
 ## Latencia
 
 | ID ASR​   | Prioridad Stakeholders​ | Prioridad Arquitectos  ​ | decision |
-|-----------|-------------------------|--------------------------|----------|
-| HU-LAT-1​ | A​                      | M​                       | 2​       |
-| HU-LAT-2​ | A​                      | M​                       | 3​       |
-| HU-LAT-3​ | M​                      | B​                       | 5​       |
-| HU-LAT-4​ | M​                      | B​                       | 4​       |
-| HU-LAT-5​ | A​                      | B​                       | 1​       |
+|----------|------------------------|-------------------------|----------|
+| HU-LAT-1​ | A​                      | M​                       | 2​        |
+| HU-LAT-2​ | A​                      | M​                       | 3​        |
+| HU-LAT-3​ | M​                      | B​                       | 5​        |
+| HU-LAT-4​ | M​                      | B​                       | 4​        |
+| HU-LAT-5​ | A​                      | B​                       | 1​        |
 
-
-## [Inicio](index.md)
+[Volver al inicio](index.md)

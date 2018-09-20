@@ -1,17 +1,17 @@
 # Arquitectura
+
 El desarrollo de este proyecto se basa en una arquitectura de microservicios, la cual permite tener componentes pequeños, simples y desacoplados, lo que a su ves permite tener aplicaciones escalables, flexibles y reutilizables.
 
+## Microservicios con contenedores
 
-### Microservicios con contenedores
-
-* Esta decisión de arquitectura permite construir componentes ligeros que procesen un alto volumen transaccional utilizando tecnologías ligeras.
+Esta decisión de arquitectura permite construir componentes ligeros que procesen un alto volumen transaccional utilizando tecnologías ligeras.
 
 - Beneficios:
-    - Autonomía. Si se cae un microservicio no se caen los demás.
-    - Desempeño al distribuirse la caga a través de los microservicios.
-    - Uso de contenedores Docker implementando portabilidad, versionamiento e independencia de proveedores
-    - Reutilización de componentes
-    - Segregación de responsabilidades, en donde cada componente implementa una funcionalidad específica
+    - Autonomía: Si se cae un microservicio no se caen los demás.
+    - Desempeño: Al distribuirse la carga a través de los microservicios.
+    - Aislamiento: Uso de contenedores Docker implementando portabilidad, versionamiento e independencia de proveedores.
+    - Reutilización: Creación de componentes por separado. Habilita la modificabilidad de la solución.
+    - Segregación de responsabilidades: Cada componente implementa una funcionalidad específica.
 
 ## Modelo de contexto
 
@@ -28,7 +28,7 @@ La siguiente vista nos muestra las entidades más importantes del sistema y las 
 
 **TODO Pendiente subir la imagen Cristian**
 
-## Modelo de Componentes
+## Modelo de componentes
 
 ### Vista componentes nivel 0
 
@@ -66,7 +66,7 @@ Esta vista representa el componente **Parking booking**.
 
 ![Image](views/NIDOO_Parking_component_layers.png)
 
-## Modelo de Despliegue
+## Modelo de despliegue
 
 La vista a continuación muestra el despliegue de los microservicios dentro de contenedores Docker los cuales a su vez se encuentran dentro de instancias EC2 en AWS. 
 
@@ -76,10 +76,10 @@ El estilo de arquitectura utilizado es multi-tier, aqui se pueden ver los compon
 
 ![Image](views/vista_despliegue_2.png)
 
-## Explicación Arquitectura
+## Explicación de la arquitectura
 
 **Debemos hacer el video en youtube para luego incrustarlo como este ejemplo**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PliHAP5m0BE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## [Volver](index.md)
+[Volver al inicio](index.md)

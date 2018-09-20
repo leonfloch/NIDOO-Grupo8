@@ -1,4 +1,5 @@
 # Backlog
+
 ## Historias de arquitectura
 
 | Código    | Descripción                                                                                                                                                                                                                                                                                                                                        | Atributo de calidad  |
@@ -24,36 +25,6 @@
 | HU-DIS-4  | Como persona encargada del parqueadero, cuando envíe la petición de verificación o consulta de una reserva, dado que se realiza desde un dispositivo móvil en condiciones normales de operación, deseo que la verificación o consulta (Si hay reserva / No hay reserva) se realice satisfactoriamente. Esto debe suceder el 99,99 % de las veces.  | Disponibilidad       |
 | HU-DIS-5  | Como persona encargada del parqueadero, cuando envíe la petición de verificación o consulta de una reserva, dado que se realiza desde un computador en condiciones normales de operación, deseo que la verificación o consulta (Si hay reserva / No hay reserva) se realice satisfactoriamente. Esto debe suceder el 99,99 % de las veces.         | Disponibilidad       |
 
-
-
-
-## Stakeholders
-
-| Stakeholder                       | Descripción                                                                      |
-|-----------------------------------|----------------------------------------------------------------------------------|
-| Guardia de seguridad.             | Persona encargada del parqueadero                                                |
-|                                   |                                                                                  |
-| Desarrollador de software         | Empleado de NIDOO quien programa los requerimientos                              |
-|                                   |                                                                                  |
-| Cliente: propietario de vehículo  | Ocasional, necesita un parqueadero de vez en cuando                              |
-|                                   |                                                                                  |
-| Cliente: empresa                  | Necesita muchos parqueaderos                                                     |
-|                                   |                                                                                  |
-| Oferente: empresa                 | Empresas que tienen muchos parqueaderos disponibles                              |
-|                                   |                                                                                  |
-| Oferente: parqueadero público     | Empresas de servicio que usan la plataforma como canal para ofrecer su servicio  |
-|                                   |                                                                                  |
-| Oferente: persona natural         | Tiene un parqueadero disponible en su casa                                       |
-|                                   |                                                                                  |
-| CEO NIDOO                         | Gerente general de NIDOO                                                         |
-| CTO NIDOO                         | Director de tecnología de NIDOO                                                  |
-|                                   |                                                                                  |
-| Financiero NIDOO                  | Valida regulación de cobros, contaduría                                          |
-|                                   |                                                                                  |
-| Comercial NIDOO                   | Realiza convenios con parqueaderos y empresas para NIDOO                         |
-
-
-
 ## Relación de historias de usuario 
 
 | Stakeholder                       | Historias de usuario representativas                                                                                              |
@@ -70,6 +41,4 @@
 | Financiero NIDOO                  | HU-SEG-4, HU-SEG-5                                                                                                                |
 | Comercial NIDOO                   | HU-LAT-1, HU-LAT-3                                                                                                                |
 
-
-
-## [Inicio](index.md)
+[Volver al inicio](index.md)

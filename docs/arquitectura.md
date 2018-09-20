@@ -19,7 +19,6 @@ La siguiente vista muestra los sistemas de los cuales está compuesto NIDOO, los
 
 NIDOO como sistema cumplirá con funcionalidades como registro de usuarios, registro y solicitus de parqueaderos, servicio de pagos, entre otros. Los sistemas externos cumplen la funcionalidad de potenciar funcionalidades de NIDOO; son sistemas que ya han sido implementados, probados y con tiempo de vida en el mercado, ejemplos son los sistemas de pagos, centrales de riesgo, sistemas de seguridad, entre otros.
 
-**TODO Pendiente subir la imagen con las convenciones (Camilo)**
 ![Image](views/vista_contexto.png)
 
 ## Modelo de dominio del problema

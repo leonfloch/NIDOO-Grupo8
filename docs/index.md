@@ -21,7 +21,7 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 
 ### Priorización de los atributos de calidad y de los ASR's
 
-* [Atributos de Calidad](atributos-calidad.md)
+* [Atributos de calidad](atributos-calidad.md)
 
 ### Restricciones de negocio
 
@@ -33,9 +33,9 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 
 ### Arquitectura
 
-* [Diseño Arquitectura](arquitectura.md)
+* [Diseño de la arquitectura](arquitectura.md)
 
-### Analisis Equipo
+### Analisis de equipo
 
 * [Aspectos que han funcionado](equipo-funciona.md)
 * [Aspectos que no han funcionado](equipo-no-funciona.md)

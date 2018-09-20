@@ -1,4 +1,4 @@
-# Atributos de Calidad
+# Atributos de calidad
 
 Priorización de los atributos de calidad y de los ASR's
 

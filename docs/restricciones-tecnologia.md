@@ -1,7 +1,7 @@
-# Restricciones de negocio
+# Restricciones de tecnologia
 
-- El desarrollo de este proyecto se basa en una arquitectura de microservicios, la cual permite tener 
+- Todo el ambiente se encuentra en AWS y cuenta con bases de datos y servidores tradicionales, protegidos y auto-escalables.
 
-- componentes pequeños, simples y desacoplados, lo que a su ves permite tener aplicaciones escalables, flexibles y reutilizables.
+- Independizar los servicios para que las actualizaciones se puedan crear por servicio.
 
 ## [Inicio](index.md)

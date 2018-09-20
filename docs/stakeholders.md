@@ -24,9 +24,9 @@
 
 ![Image](stakeholders/08 CEO NIDOO.png)
 
-![Image](stakeholders/09 CTO NIDOO.png)
+![Image](stakeholders/09 CTO NIDOO_.png)
 
-![Image](stakeholders/10 Financiero NIDOO.png)
+![Image](stakeholders/10 Financiero NIDOO_.png)
 
 ![Image](stakeholders/11 Comercial NIDOO.png)
 

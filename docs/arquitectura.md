@@ -78,8 +78,6 @@ El estilo de arquitectura utilizado es multi-tier, aqui se pueden ver los compon
 
 ## Explicación de la arquitectura
 
-**TODO: Pendiente colocar la URL del video (Camilo)**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PliHAP5m0BE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9VfrtHhCKzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Volver al inicio](index.md)

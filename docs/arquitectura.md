@@ -25,7 +25,8 @@ NIDOO como sistema cumplirá con funcionalidades como registro de usuarios, regi
 
 La siguiente vista nos muestra las entidades más importantes del sistema y las relaciones que existen entre estas.
 
-**TODO: Pendiente subir la imagen (Cristian)**
+![Image](views/modelo_dominio.png)
+
 
 ## Modelo de componentes
 

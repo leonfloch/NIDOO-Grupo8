@@ -27,7 +27,6 @@ La siguiente vista nos muestra las entidades más importantes del sistema y las 
 
 ![Image](views/modelo_dominio.png)
 
-
 ## Modelo de componentes
 
 ### Vista componentes nivel 0

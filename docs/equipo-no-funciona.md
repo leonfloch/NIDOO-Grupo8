@@ -5,6 +5,6 @@
 
 Estos son los compromisos individuales y de grupo para próximos sprints:
 
-* Reunirnos presencilamente para realizar los trabajos de la semana.
+* Reunirnos presencialmente para realizar los trabajos de la semana.
 
 [Volver al inicio](index.md)

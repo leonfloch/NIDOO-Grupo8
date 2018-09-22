@@ -39,3 +39,8 @@ Leonardo Valbuena Calderon    | l.valbuena@uniandes.edu.co
 
 * [Aspectos que han funcionado](equipo-funciona.md)
 * [Aspectos que no han funcionado](equipo-no-funciona.md)
+
+
+## Video explicación visión
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9VfrtHhCKzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

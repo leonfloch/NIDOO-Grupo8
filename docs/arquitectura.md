@@ -42,7 +42,7 @@ Contiene las aplicaciones web y mobile donde estará la interfaz de usuario y se
 * Este servicio está basado en el estilo de arquitectura Broker, el cual es el encargado de ser el intermediario entre los clientes y los servicios sin importar su ubicación y además del balanceo de recursos.
 
 3. **Componentes de negocio:**
-Representa todos los microservicios encargados de la ejecución de los procesos de negocio, cada uno con responsabilidades definidas. El estilo de arquitectura utilizado es SOA:
+Representa todos los microservicios encargados de la ejecución de los procesos de negocio, cada uno con responsabilidades definidas:
 
     - Users: Microservicio encargado del manejo de los usuarios del sistema, como creación, modificación, administración.
     - Administrative: Se encarga de toda la parte administrativa de la aplicación junto con todo el manejo de reportes y el manejo del Dashboard para la administración de parqueaderos.
@@ -50,7 +50,7 @@ Representa todos los microservicios encargados de la ejecución de los procesos 
     - Payments: Microservicio encargado de toda la parte de pagos dentro del sistema, incluye tambien la comunicacion con componentes de pagos externos.
 
 4. **Componentes comunes:**
-Estos componentes comprenden todo aquello común dentro de la aplicacion, como temas de notificaciones, acceso a base de datos y autenticacion. De la misma manera que los componentes de negocio, el estilo de arquitectura utilizado es SOA.
+Estos componentes comprenden todo aquello común dentro de la aplicacion, como temas de notificaciones, acceso a base de datos y autenticacion. De la misma manera que los componentes de negocio.
 
 5. **Componentes externos:**
 Los componentes externos, son todas aquellas aplicaciones o componentes que están fuera de la frontera del sistema pero debe existir una comunicacion ya sea de consumo o exposición.
